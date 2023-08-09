@@ -3,7 +3,7 @@
 
 
 
-## Description
+## Check it Out!
 A mario-themed drawing simulator that simulates a 2D creative drawing experience with options to change colors and experiment with different images to create a work of art!
 
 I created a drawing simulator using Java as the back-end language with multiple renderers, fragments, camera angles, coordinates, component systems, batching, and resource management. 
