@@ -3,7 +3,7 @@
 
 
 
-## Check it Out!
+## Description
 A mario-themed drawing simulator that simulates a 2D creative drawing experience with options to change colors and experiment with different images to create a work of art!
 
 I created a drawing simulator using Java as the back-end language with multiple renderers, fragments, camera angles, coordinates, component systems, batching, and resource management. 
@@ -26,7 +26,7 @@ When resetting the simulator grid, ensure that the .levels file is cleared and d
 - Infinite drawing
 
 
-## Demo
+## Check it Out!
 ![ezgif com-video-to-gif (1)](https://github.com/UddamB/Drawing-Simulator/assets/89602764/2d989272-5537-41e7-9145-929e54e654ec)
 
 ## Installation
